@@ -13,4 +13,9 @@
     <PackageReference Include="coverlet.collector" Version="1.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LudoEngine\LudoEngine.csproj" />
+    <ProjectReference Include="..\LudoGame7\LudoGame7.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -4,9 +4,10 @@ namespace LudoGame7
 {
     class Program
     {
+        static int numberOfPlayers;
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Ludo");
         }
     }
 }
